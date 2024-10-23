@@ -1,5 +1,3 @@
-Hieuvuanguday
-
 <p align="center">
   <a href="https://github.com/khoahocmai">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&duration=2000&pause=2000&color=8054B3&center=true&vCenter=true&width=435&lines=%7C+Khoahocmai+%7C" alt="Khoahocmai"/>
