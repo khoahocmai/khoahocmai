@@ -94,6 +94,13 @@
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?logo=visual-studio&logoColor=white&style=for-the-badge">
 </p>
 
+<h3 align="center">🔥 Streak Stats</h3>
+<p align="center">
+  <a href="https://github.com/khoahocmai">
+    <img src="https://streak-stats.demolab.com/?user=khoahocmai&theme=dark"/>
+  </a>
+</p>
+
 <!-- GitHub Profile Stats Section -->
 <h3 align="center">💻 GitHub Profile Stats</h3>
 <p align="center">
