@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/khoahocmai">
-    <img src="https://readme-typing-svg.demolab.com?font=&weight=800&duration=2000&pause=2000&color=8054B3&center=true&vCenter=true&width=435&lines=Passionate+Backend+Developer;Crafting Robust and Scalable Systems;Optimizing+API+Performance+and+Database+Design"/>
+    <img src="https://readme-typing-svg.demolab.com?font=&weight=800&duration=2000&pause=2000&color=8054B3&center=true&vCenter=true&width=635&lines=Passionate+Backend+Developer;Crafting Robust and Scalable Systems;Optimizing+API+Performance+and+Database+Design"/>
   </a>
 </p>
 
