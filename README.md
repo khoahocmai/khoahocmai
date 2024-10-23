@@ -94,17 +94,18 @@
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?logo=visual-studio&logoColor=white&style=for-the-badge">
 </p>
 
-<h3 align="center">🔥 Streak Stats</h3>
+<h2 align="center">🛠️ GitHub Stats</h2>
+
 <p align="center">
   <a href="https://github.com/khoahocmai">
-    <img src="https://streak-stats.demolab.com/?user=khoahocmai&theme=dark"/>
+    <img 
+      alt="Khoahocmai's Streak Stats" 
+      src="https://streak-stats.demolab.com/?user=khoahocmai&theme=dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
+      height="192px"/>
   </a>
 </p>
 
-<!-- GitHub Profile Stats Section -->
-<h3 align="center">💻 GitHub Profile Stats</h3>
 <p align="center">
-  <!-- GitHub Stats Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
       alt="Khoahocmai's GitHub Stats" 
@@ -112,16 +113,23 @@
       height="192px"/>
   </a>
   
-  <!-- Top Languages Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
       alt="Khoahocmai's Top Languages" 
       src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=khoahocmai&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" 
       height="192px"/>
   </a>
-  
-  <br/>
-  
-  <!-- Note about Top Languages -->
-  <b>Note:</b> The top languages are merely a metric of the languages present in my public code and do not reflect my experience or skill level. I aspire to continue learning and developing my skills further.
 </p>
+
+<p align="center">
+  <a href="https://github.com/khoahocmai">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=khoahocmai&custom_title=DangKhoa%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" 
+      alt="Khoahocmai's GitHub Activity Graph"
+      height="250px"/>
+  </a>
+</p>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm passionate about learning, coding, and exploring new ideas</b>. If you're excited about technology or just want to chat, <b>feel free to reach out!</b> =))</em>
+
+<br> <p align="right">Connect with me by <a href="https://www.facebook.com/doduongdangkhoa/">Đỗ Dương Đăng Khoa</a></p>
