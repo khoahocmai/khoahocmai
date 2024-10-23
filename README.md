@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/khoahocmai">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&duration=2000&pause=2000&color=00C8F0&center=true&vCenter=true&width=435&lines=%7C+Khoahocmai+%7C" alt="Khoahocmai"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&duration=2000&pause=2000&color=00C8F0&center=true&vCenter=true&width=435&lines=%7C+Do Duong Dang Khoa+%7C;%7C+Khoahocmai+%7C" alt="Khoahocmai"/>
   </a>
 </p>
 
