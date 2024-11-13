@@ -12,10 +12,14 @@
 
 <p align="center">
   <a href="https://www.facebook.com/doduongdangkhoa/">
-    <img alt="Facebook" src="https://img.shields.io/badge/Dang%20Khoa-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+    <img alt="Facebook" src="https://img.shields.io/badge/Dang%20Khoa-1877F2?style=for-the-badge&logo=facebook&logoColor=white&cacheSeconds=300">
   </a>
-  <img src="https://custom-icon-badges.demolab.com/github/stars/khoahocmai?color=F0C808&style=for-the-badge&labelColor=FFD700&logo=star"/>
-  <img src="https://custom-icon-badges.demolab.com/github/followers/khoahocmai?color=2D76BB&labelColor=006BB6&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  <a href="https://github.com/khoahocmai">
+    <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/khoahocmai?color=F0C808&style=for-the-badge&labelColor=FFD700&logo=star&cacheSeconds=300">
+  </a>
+  <a href="https://github.com/khoahocmai">
+    <img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/khoahocmai?color=2D76BB&labelColor=006BB6&style=for-the-badge&logo=person-add&label=Follow&logoColor=white&cacheSeconds=300">
+  </a>
 </p>
 
 <p align="center">
