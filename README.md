@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/-0396--090--487-orange?style=for-the-badge&logo=phone&logoColor=white" alt="Phone number"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-doduongdangkhoa1103@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" alt="Email"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Binh%20Duong-red?style=for-the-badge&labelColor=red&logo=location&logoColor=white&label=Việt%20Nam&color=gold" alt="Location"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Việt%20Nam-Binh%20Duong-red?style=for-the-badge&labelColor=red&logo=location&logoColor=white&color=FFD700" alt="Location"/>
 </p>
 
 <h2 align="center">🛠️ My skills and tools</h2>
