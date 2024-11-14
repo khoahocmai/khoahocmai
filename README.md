@@ -15,17 +15,17 @@
     <img alt="Facebook" src="https://img.shields.io/badge/Dang%20Khoa-1877F2?style=for-the-badge&logo=facebook&logoColor=white&cacheSeconds=300">
   </a>
   <a href="https://github.com/khoahocmai">
-    <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/khoahocmai?color=F0C808&style=for-the-badge&labelColor=FFD700&logo=star&cacheSeconds=300">
+    <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/khoahocmai?color=FFC107&style=for-the-badge&labelColor=555555&logo=star&logoColor=white&cacheSeconds=300%22">
   </a>
   <a href="https://github.com/khoahocmai">
-    <img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/khoahocmai?color=2D76BB&labelColor=006BB6&style=for-the-badge&logo=person-add&label=Follow&logoColor=white&cacheSeconds=300">
+    <img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/khoahocmai?color=0D47A1&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white&cacheSeconds=300%22">
   </a>
 </p>
 
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/-0396--090--487-2E86C1?style=for-the-badge&logo=phone&logoColor=white" alt="Phone number"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-doduongdangkhoa1103@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Việt%20Nam-Binh%20Duong-FF5733?style=for-the-badge&labelColor=FF0000&logo=location&logoColor=FFD700" alt="Location"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Vi%E1%BB%87t%20Nam-Binh%20Duong-29B339?style=for-the-badge&labelColor=FF0000&logo=location&logoColor=FFD700" alt="Location"/>
 </p>
 
 <h2 align="center">🛠️ My skills and tools</h2>
