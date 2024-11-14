@@ -100,11 +100,20 @@
 
 <h2 align="center">🛠️ GitHub Stats</h2>
 
+//<p align="center">
+//  <a href="https://github.com/khoahocmai">
+//    <img 
+//      alt="Khoahocmai's Streak Stats" 
+//      src="https://github-readme-streak-stats.herokuapp.com/?user=khoahocmai&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
+//      height="192px"/>
+//  </a>
+//</p>
+
 <p align="center">
   <a href="https://github.com/khoahocmai">
     <img 
       alt="Khoahocmai's Streak Stats" 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=khoahocmai&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
+      src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=khoahocmai&theme=monokai-metallian&hide_border=true" 
       height="192px"/>
   </a>
 </p>
