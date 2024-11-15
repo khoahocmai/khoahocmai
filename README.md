@@ -104,7 +104,7 @@
   <a href="https://github.com/khoahocmai">
     <img 
       alt="Khoahocmai's Streak Stats" 
-      src="https://streak-stats.demolab.com/?user=khoahocmai&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
+      src="https://streak-stats.demolab.com/?user=khoahocmai&theme=react&hide_border=true&bg_color=000000&title_color=FF4500&icon_color=FFD700" 
       height="192px"/>
   </a>
 </p>
