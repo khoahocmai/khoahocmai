@@ -69,6 +69,7 @@
 
 <h3>🧰 Frameworks</h3>
 <p align="center">
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white&style=for-the-badge">
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white&style=for-the-badge">
 </p>
 
