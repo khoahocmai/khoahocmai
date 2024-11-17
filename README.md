@@ -40,16 +40,17 @@
   <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white&style=for-the-badge">
 </p>
 
-<h3>🧰 Backend Development</h3>
+<h3>🧰 Frameworks</h3>
+<p align="center">
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white&style=for-the-badge">
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white&style=for-the-badge">
+</p>
+
+<h3>🗄️ Backend Development</h3>
 <p align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white&style=for-the-badge">
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white&style=for-the-badge">
   <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4.svg?logo=dotnet&logoColor=white&style=for-the-badge">
-</p>
-
-<h3>🗄️ Mobile</h3>
-<p align="center">
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?logo=android&logoColor=white&style=for-the-badge">
 </p>
 
 <h3>💻 Databases</h3>
@@ -60,17 +61,16 @@
   <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927.svg?logo=microsoft-sql-server&logoColor=white&style=for-the-badge">
 </p>
 
-<h3>👨‍💻 Devops</h3>
+<h3>👨‍💻 Mobile</h3>
+<p align="center">
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?logo=android&logoColor=white&style=for-the-badge">
+</p>
+
+<h3>🧰 Devops</h3>
 <p align="center">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazon-aws&logoColor=white&style=for-the-badge">
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white&style=for-the-badge">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white&style=for-the-badge">
-</p>
-
-<h3>🧰 Frameworks</h3>
-<p align="center">
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white&style=for-the-badge">
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white&style=for-the-badge">
 </p>
 
 <h3>🗄️ Software</h3>
@@ -94,9 +94,14 @@
   <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26.svg?logo=gitlab&logoColor=white&style=for-the-badge">
   <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white&style=for-the-badge">
   <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge">
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-0079BF.svg?logo=trello&logoColor=white&style=for-the-badge">
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white&style=for-the-badge">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge">
   <img alt="Apache Netbeans IDE" src="https://img.shields.io/badge/apache_netbeans_ide-1B6AC6?&logo=apachenetbeanside&logoColor=white&style=for-the-badge">
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?logo=visual-studio&logoColor=white&style=for-the-badge">
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=androidstudio&logoColor=white&style=for-the-badge">
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D.svg?logo=swagger&logoColor=black&style=for-the-badge">
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&logoColor=white&style=for-the-badge">
 </p>
 
 <h2 align="center">🛠️ GitHub Stats</h2>
