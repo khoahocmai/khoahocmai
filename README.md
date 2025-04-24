@@ -142,3 +142,6 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm passionate about learning, coding, and exploring new ideas</b>. If you're excited about technology or just want to chat, <b>feel free to reach out!</b> =))</em>
 
 <br> <p align="right">Connect with me by <a href="https://www.facebook.com/doduongdangkhoa/">Đỗ Dương Đăng Khoa</a></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
