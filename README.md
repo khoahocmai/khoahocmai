@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/khoahocmai">
-    <img src="https://readme-typing-svg.demolab.com?font=&weight=800&duration=2000&pause=2000&color=8054B3&center=true&vCenter=true&width=635&lines=Passionate+Backend+Developer;Crafting Robust and Scalable Systems;Optimizing+API+Performance+and+Database+Design"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&duration=2000&pause=2000&color=8054B3&center=true&vCenter=true&width=750&lines=Passionate+Backend+Developer;Crafting Robust and Scalable Systems;Optimizing+API+Performance+and+Database+Design"/>
   </a>
 </p>
 
@@ -15,10 +15,10 @@
     <img alt="Facebook" src="https://img.shields.io/badge/Dang%20Khoa-1877F2?style=for-the-badge&logo=facebook&logoColor=white&cacheSeconds=300">
   </a>
   <a href="https://github.com/khoahocmai">
-    <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/khoahocmai?color=FFC107&style=for-the-badge&labelColor=555555&logo=star&logoColor=white&cacheSeconds=300%22">
+    <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/khoahocmai?color=FFC107&style=for-the-badge&labelColor=555555&logo=star&logoColor=white&cacheSeconds=300">
   </a>
   <a href="https://github.com/khoahocmai">
-    <img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/khoahocmai?color=0D47A1&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white&cacheSeconds=300%22">
+    <img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/khoahocmai?color=0D47A1&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white&cacheSeconds=300">
   </a>
 </p>
 
