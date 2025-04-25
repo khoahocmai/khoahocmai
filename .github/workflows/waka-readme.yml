@@ -30,6 +30,19 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
+
+          # 📐 Custom Format:
+          CUSTOM_FORMAT: |
+            ## 🧑‍💻 WakaTime Summary  
+            **🗓️ Date Range:** *{{startDate}}* → *{{endDate}}*  
+            **⏳ Total Coding Time:** `{{totalTime}}`
+
+            | 💻 Language     | ⏱️ Time Spent | 📊 Percent |
+            |-----------------|---------------|------------|
+            {{#languages}}
+            | {{name}} | {{text}} | {{percent}}% |
+            {{/languages}}
+            
           # commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           TARGET_BRANCH: master
