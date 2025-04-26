@@ -11,43 +11,27 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # meta
-          API_BASE_URL: https://wakatime.com/api
-          # content
-          SHOW_TITLE: true
-          SECTION_NAME: waka
-          BLOCKS: ->
-          CODE_LANG: all_time 
-          TIME_RANGE: true
-          LANG_COUNT: 10
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Customize format
+          SHOW_UPDATED_DATE: true
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_LANGUAGE: true
           SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: true
-
-          # 📐 Custom Format:
-          CUSTOM_FORMAT: |
-            ## 🧑‍💻 WakaTime Summary  
-            **🗓️ Date Range:** *{{startDate}}* → *{{endDate}}*  
-            **⏳ Total Coding Time:** `{{totalTime}}`
-
-            | 💻 Language     | ⏱️ Time Spent | 📊 Percent |
-            |-----------------|---------------|------------|
-            {{#languages}}
-            | {{name}} | {{text}} | {{percent}}% |
-            {{/languages}}
-            
-          # commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
-          TARGET_BRANCH: master
-          TARGET_PATH: README.md
-          COMMITTER_NAME: GitHubActionBot
-          COMMITTER_EMAIL: action-bot@github.org
-          AUTHOR_NAME: khoahocmai
-          AUTHOR_EMAIL: doduongdangkhoa1103@gmail.com
+          SHOW_PERCENTAGE: true
+          SHOW_LINES_OF_CODE: false
+          SHOW_COMMIT: false
+          SHOW_PROJECTS: false
+          SHOW_EDITORS: false
+          SHOW_OPERATING_SYSTEM: false
+          SHOW_PROFILE_VIEWS: false
+          SHOW_SHORT_INFO: false
+          SHOW_LOC_CHART: false
+          SHOW_LANGUAGE_PER_REPO: false
+          CUSTOM_WORKSPACE_PATH: ./
+          SHOW_TITLE: true
+          COMMIT_MESSAGE: Updated waka-readme metrics
