@@ -6,7 +6,6 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
     - cron: "0 0 * * *"
 
 jobs:
@@ -22,23 +21,17 @@ jobs:
           SHOW_UPDATED_DATE: true
           SHOW_TOTAL_CODE_TIME: true
           SHOW_LANGUAGE: true
-          SHOW_TIME: true
-          SHOW_PERCENTAGE: true
           
           # 🚫 Ẩn các thứ không cần thiết
           SHOW_LINES_OF_CODE: false
           SHOW_COMMIT: false
           SHOW_PROJECTS: false
           SHOW_EDITORS: false
-          SHOW_OPERATING_SYSTEM: false
+          SHOW_OS: false
           SHOW_PROFILE_VIEWS: false
           SHOW_SHORT_INFO: false
           SHOW_LOC_CHART: false
           SHOW_LANGUAGE_PER_REPO: false
-
-          # ✨ Tuỳ chỉnh khác
-          CUSTOM_WORKSPACE_PATH: ./
-          SHOW_TITLE: true
 
           # ✅ Commit lại README
           COMMIT_MESSAGE: Update WakaTime coding metrics
