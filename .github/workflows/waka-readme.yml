@@ -17,12 +17,15 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # Customize format
+          
+          # ✅ Hiển thị thông tin coding
           SHOW_UPDATED_DATE: true
           SHOW_TOTAL_CODE_TIME: true
           SHOW_LANGUAGE: true
           SHOW_TIME: true
           SHOW_PERCENTAGE: true
+          
+          # 🚫 Ẩn các thứ không cần thiết
           SHOW_LINES_OF_CODE: false
           SHOW_COMMIT: false
           SHOW_PROJECTS: false
@@ -32,6 +35,10 @@ jobs:
           SHOW_SHORT_INFO: false
           SHOW_LOC_CHART: false
           SHOW_LANGUAGE_PER_REPO: false
+
+          # ✨ Tuỳ chỉnh khác
           CUSTOM_WORKSPACE_PATH: ./
           SHOW_TITLE: true
-          COMMIT_MESSAGE: Updated waka-readme metrics
+
+          # ✅ Commit lại README
+          COMMIT_MESSAGE: Update WakaTime coding metrics
