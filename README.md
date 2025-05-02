@@ -146,14 +146,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 23 April 2025 - To: 30 April 2025
+From: 24 April 2025 - To: 01 May 2025
 
-Total Time: 27 hrs 3 mins
+Total Time: 26 hrs 50 mins
 
-TypeScript   26 hrs 9 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   95.96 %
-PlantUML     17 mins         -------------------------   01.04 %
-Bash         16 mins         -------------------------   01.04 %
-HTML         11 mins         -------------------------   00.72 %
+TypeScript   25 hrs 55 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   95.92 %
+PlantUML     17 mins         -------------------------   01.05 %
+Bash         16 mins         -------------------------   01.05 %
+HTML         11 mins         -------------------------   00.73 %
 Other        11 mins         -------------------------   00.70 %
 ```
 
