@@ -1,14 +1,14 @@
-<p align="center">
+<div align="center">
   <a href="https://github.com/khoahocmai">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&duration=2000&pause=2000&color=00C8F0&width=500&lines=Do+Duong+Dang+Khoa;Khoahocmai" alt="Khoahocmai"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&duration=2000&pause=2000&color=00C8F0&center=true&vCenter=true&width=435&lines=%7C+Do+Duong+Dang+Khoa+%7C;%7C+Khoahocmai+%7C" alt="Khoahocmai"/>
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/khoahocmai">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&duration=2000&pause=2000&color=8054B3&width=600&lines=Passionate+Backend+Developer;Crafting+Robust+and+Scalable+Systems;Optimizing+API+Performance+and+Database+Design" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&duration=2000&pause=2000&color=8054B3&center=true&vCenter=true&width=750&lines=Passionate+Backend+Developer;Crafting+Robust+and+Scalable+Systems;Optimizing+API+Performance+and+Database+Design"/>
   </a>
-</p>
+</div>
 
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=61576234329875">
