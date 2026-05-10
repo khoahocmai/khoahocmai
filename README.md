@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/-0396--090--487-2E86C1?style=for-the-badge&logo=phone&logoColor=white" alt="Phone number"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-doduongdangkhoa1103@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Vi%E1%BB%87t%20Nam-Binh%20Duong-29B339?style=for-the-badge&labelColor=FF0000&logo=location&logoColor=FFD700" alt="Location"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Vi%E1%BB%87t%20Nam-Ho%20Chi%20Minh-29B339?style=for-the-badge&labelColor=FF0000&logo=location&logoColor=FFD700" alt="Location"/>
 </p>
 
 <h2 align="center">🛠️ My skills and tools</h2>
