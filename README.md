@@ -113,9 +113,6 @@ Infrastructure
 
 ---
 
-
----
-
 ## GitHub Activity
 
 <p align="center">
